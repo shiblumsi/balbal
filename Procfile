@@ -1,0 +1,1 @@
+web: gunicorn bal.wsgi --log-file -
